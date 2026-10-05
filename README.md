@@ -1,6 +1,6 @@
 # Hi, I'm Louis Gosset 👋
 
-I build projects at the intersection of **physics, mathematics and software**, with a focus on **control, robotics, scientific machine learning and computational modelling**.
+I build projects at the intersection of **physics, mathematics and software**, with a focus on **control, scientific machine learning and computational modelling**.
 
 I am especially interested in understanding physical systems from first principles, turning them into numerical models, and then using **simulation, optimization, control and machine learning** to study or improve their behaviour.
 
@@ -22,7 +22,27 @@ Physics-based modelling and control of a cart with three freely rotating links.
 
 A synthetic flow-reconstruction study using **Physics-Informed Neural Networks (PINNs)** under sparse and noisy observations.
 
-**Key topics:** PyTorch · PINNs · inverse problems · pulsatile flow · sparse measurements · uncertainty · analytical baselines
+**Key topics:** Python · PyTorch · PINNs · inverse problems · pulsatile flow · sparse measurements · analytical baselines
+
+---
+
+### 🎱 Billiard Vision & Trajectory Analysis
+
+[Repository](https://github.com/LGOSSET-21/billiard-vision-analysis)
+
+Three-person EPFL engineering-programming project combining **LabVIEW, C and MATLAB** to detect billiard balls from image sequences, reconstruct trajectories and analyse three-cushion scoring.
+
+**Key topics:** image processing · C · MATLAB · LabVIEW · software integration · trajectory analysis
+
+---
+
+### ⚙️ Squash Ball Launcher — Mechanical Design
+
+[Repository](https://github.com/LGOSSET-21/squash-ball-launcher-catia)
+
+Four-person EPFL mechanical-design project covering analytical sizing, CATIA modelling, engineering drawings, component selection and design-stage testing of a manually powered squash-ball launcher.
+
+**Key topics:** CATIA · mechanical design · CAD · engineering drawings · analytical sizing · teamwork
 
 ## Interests
 
@@ -36,7 +56,7 @@ A synthetic flow-reconstruction study using **Physics-Informed Neural Networks (
 
 **Programming:** Python · MATLAB · C/C++ · Git  
 **Scientific computing:** NumPy · SciPy · PyTorch · Matplotlib  
-**Engineering:** Control systems · numerical simulation · optimization · dynamical systems · physical modelling
+**Engineering:** CATIA · LabVIEW · control systems · numerical simulation · optimization · dynamical systems · physical modelling
 
 ## Current direction
 
