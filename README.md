@@ -1,4 +1,4 @@
-# Hi, I'm Louis Gosset 👋
+# Hi, I'm Louis Gosset 
 
 I build projects at the intersection of **physics, mathematics and software**, with a focus on **control, scientific machine learning and computational modelling**.
 
@@ -6,7 +6,7 @@ I am especially interested in understanding physical systems from first principl
 
 ## Featured projects
 
-### 🎯 Triple Inverted Pendulum — Nonlinear Control & Swing-Up
+###  Triple Inverted Pendulum — Nonlinear Control & Swing-Up
 
 [Repository](https://github.com/LGOSSET-21/inverted-pendulum-control) · [Live simulation](https://LGOSSET-21.github.io/inverted-pendulum-control/)
 
@@ -16,7 +16,7 @@ Physics-based modelling and control of a cart with three freely rotating links.
 
 ---
 
-### 🩸 Physics-Informed Neural Networks for Hemodynamics
+###  Physics-Informed Neural Networks for Hemodynamics
 
 [Repository](https://github.com/LGOSSET-21/pinn-hemodynamics) · [Interactive results](https://LGOSSET-21.github.io/pinn-hemodynamics/)
 
@@ -26,7 +26,7 @@ A synthetic flow-reconstruction study using **Physics-Informed Neural Networks (
 
 ---
 
-### 🎱 Billiard Vision & Trajectory Analysis
+###  Billiard Vision & Trajectory Analysis
 
 [Repository](https://github.com/LGOSSET-21/billiard-vision-analysis)
 
@@ -36,7 +36,7 @@ Three-person EPFL engineering-programming project combining **LabVIEW, C and MAT
 
 ---
 
-### ⚙️ Squash Ball Launcher — Mechanical Design
+###  Squash Ball Launcher — Mechanical Design
 
 [Repository](https://github.com/LGOSSET-21/squash-ball-launcher-catia)
 
@@ -46,11 +46,11 @@ Four-person EPFL mechanical-design project covering analytical sizing, CATIA mod
 
 ## Interests
 
-- 🤖 **Robotics & Control Systems**
-- 🧠 **Machine Learning & Scientific ML**
-- ⚙️ **Dynamical Systems & Computational Physics**
-- 📐 **Optimization & Numerical Methods**
-- 📊 **Quantitative / Computational Finance**
+-  **Robotics & Control Systems**
+-  **Machine Learning & Scientific ML**
+-  **Dynamical Systems & Computational Physics**
+-  **Optimization & Numerical Methods**
+-  **Quantitative / Computational Finance**
 
 ## Tools
 
